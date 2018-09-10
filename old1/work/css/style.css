@@ -1,0 +1,29 @@
+#counter {
+    color: #ffffff;
+    padding-top: 40px;
+}
+
+#counter_wrapper {
+    margin: 1.3em 0px 1em;
+
+}
+
+.countdown-period {
+    padding-top: 50px;
+    display: block;
+    font-size: 150%;
+}
+
+.countdown-amount {
+    display: block;
+    font-size: 700%;
+}
+
+.countdown-section {
+    display: inline-block;
+    margin-right: 8%;
+}
+
+.countdown-section:last-child {
+    margin-right: 0px;
+}

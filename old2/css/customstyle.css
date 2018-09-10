@@ -1,0 +1,15 @@
+.navbar-default navbar-brand {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+
+.navbar-header img,
+footer img
+ {
+    width: 65px;
+    height: 65px;
+}
+
